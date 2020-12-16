@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="press_button">Press</string>
+</resources>
